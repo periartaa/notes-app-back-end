@@ -2,7 +2,7 @@
 
 ## Courses
 ``` bash
-https://www.dicoding.com/academies/133/corridor
+[https://www.dicoding.com/academies/133/corridor](https://www.dicoding.com/academies/342/corridor)
 ```
 
 ## Donlowad respository 
