@@ -18,3 +18,14 @@ berikut BookshelfAPITestCollectionAndEnvironment : C:\persiapan intern\two\notes
 ```bash
 git clone https://github.com/periartaa/notes-app-back-end.git
 ```
+
+
+
+
+## Secara garis besar proses konfigurasi
+1. Membuat dan menjalankan Compute Engine Instance
+2. Mengonfigurasi Kebutuhan pada Compute Engine Instance
+3. Memasang Node.js dan Menjalankan Web Server di Compute Engine Instance
+4. Process Manager
+5. Statik IP
+6. nginx
