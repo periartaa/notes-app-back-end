@@ -19,7 +19,17 @@ berikut BookshelfAPITestCollectionAndEnvironment : C:\persiapan intern\two\notes
 git clone https://github.com/periartaa/notes-app-back-end.git
 ```
 
-
+## Konfigurasi Sederhana Untuk Localhost
+1. Donlowad respository
+2. install depedensi
+   ``` bash
+   npm install
+   ```
+4. running
+   ``` bash
+   npm run start-dev
+   ```
+6. Uji dengan Postman
 
 
 ## Secara garis besar proses konfigurasi
