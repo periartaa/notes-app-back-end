@@ -41,6 +41,38 @@ git clone https://github.com/periartaa/notes-app-back-end.git
 5. Statik IP
 6. nginx
 
+## Pengujian postman
+
+1. Masuk ke SSH
+   ```bash
+   cd notes-app-back-end/
+   ```
+2. Lalu jalankan untuk menghidukan server
+
+   ```bash
+   notes-app-back-end$ pm2 start npm --name "notes-api" -- run "start-prod"
+   ```
+
+   Kita bisa juga menghentikan prosesnya dengan cara:
+
+   ```bash
+   pm2 stop notes-api
+   ```
+
+   Untuk menjalankan kembali proses, gunakan perintah:
+
+   ```bash
+   pm2 start notes-api
+   ```
+
+   Di pm2, kita dapat me-restart proses secara manual dengan cara:
+
+   ```bash
+   pm2 restart notes-api
+   ```
+
+3. Masuk ke postman. Sesuai IPAddress
+
 ## Modul Konfigurasi
 
 Lebih jelas bisa dilihat melalui modul konfigurasi [Modul Konfigurasi](./Konfigurasi_Modul)
