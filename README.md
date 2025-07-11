@@ -20,22 +20,27 @@ git clone https://github.com/periartaa/notes-app-back-end.git
 ```
 
 ## Konfigurasi Sederhana Untuk Localhost
+
 1. Donlowad respository
 2. install depedensi
-   ``` bash
+   ```bash
    npm install
    ```
-4. running
-   ``` bash
+3. running
+   ```bash
    npm run start-dev
    ```
-6. Uji dengan Postman
-
+4. Uji dengan Postman
 
 ## Secara garis besar proses konfigurasi
+
 1. Membuat dan menjalankan Compute Engine Instance
 2. Mengonfigurasi Kebutuhan pada Compute Engine Instance
 3. Memasang Node.js dan Menjalankan Web Server di Compute Engine Instance
 4. Process Manager
 5. Statik IP
 6. nginx
+
+## Modul Konfigurasi
+
+Lebih jelas bisa dilihat melalui modul konfigurasi [Modul Konfigurasi](./docs/Konfigurasi Modul)
