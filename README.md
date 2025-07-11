@@ -6,6 +6,12 @@ Dalam courses ini memiliki tugas dimana harus membuat program aplikasi back-end 
 Courses Dicoding : 
 [Dicoding Academy](https://www.dicoding.com/academies/342/corridor)
 
+BookshelfAPITestCollectionAndEnvironment
+Dalam folder "BookshelfAPITestCollectionAndEnvironment" Memiliki file Postman untuk menguji projek back-end yang dibuat
+berikut BookshelfAPITestCollectionAndEnvironment
+
+
+
 ## Donlowad respository
 
 ```bash
