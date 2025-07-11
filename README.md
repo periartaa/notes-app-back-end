@@ -43,4 +43,4 @@ git clone https://github.com/periartaa/notes-app-back-end.git
 
 ## Modul Konfigurasi
 
-Lebih jelas bisa dilihat melalui modul konfigurasi [Modul Konfigurasi](./Konfigurasi Modul)
+Lebih jelas bisa dilihat melalui modul konfigurasi [Modul Konfigurasi](./Konfigurasi_Modul)
